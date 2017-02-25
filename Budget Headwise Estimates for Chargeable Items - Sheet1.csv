@@ -1,0 +1,236 @@
+S.N,Budget code,Heading,Sub – Heading,Description,Source,Mode Of Payment,Year,Amount
+1,21111,President,President,Salary,GoN,Cash,2013,1393000
+2,21113,President,President,Dearness Allowance,GoN,Cash,2013,64000
+3,21121,President,President,Clothing,GoN,Cash,2013,50000
+4,21122,President,President,Fooding,GoN,Cash,2013,0
+5,21123,President,President,Medical Expense,GoN,Cash,2013,150000
+6,22112,President,President,Communication,GoN,Cash,2013,300000
+7,22121,President,President,House Rent,GoN,Cash,2013,120000
+8,22211,President,President,Fuel and Oil - Vehicles,GoN,Cash,2013,850000
+9,22311,President,President,General Office Expenses,GoN,Cash,2013,700000
+10,22312,President,President,Feedds for Animals & Birds,GoN,Cash,2013,150000
+11,22611,President,President,Monitoring & Evaluation Expenses,GoN,Cash,2013,250000
+12,22612,President,President,Travelling Expenses,GoN,Cash,2013,0
+13,22711,President,President,Miscellaneous,GoN,Cash,2013,1500000
+14,21111,Deputy President,Deputy President,Salary,GoN,Cash,2013,1000000
+15,21113,Deputy President,Deputy President,Dearness Allowance,GoN,Cash,2013,38000
+16,21121,Deputy President,Deputy President,Clothing,GoN,Cash,2013,30000
+17,21123,Deputy President,Deputy President,Medical Expense,GoN,Cash,2013,200000
+18,22111,Deputy President,Deputy President,Water and Electricity,GoN,Cash,2013,300000
+19,22112,Deputy President,Deputy President,Communication,GoN,Cash,2013,166000
+20,22211,Deputy President,Deputy President,Fuel and Oil - Vehicles,GoN,Cash,2013,800000
+21,22212,Deputy President,Deputy President,Operation & Maintenance,GoN,Cash,2013,350000
+22,22311,Deputy President,Deputy President,General Office Expenses,GoN,Cash,2013,600000
+23,22313,Deputy President,Deputy President,Books and Materials,GoN,Cash,2013,0
+24,22314,Deputy President,Deputy President,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,50000
+25,22611,Deputy President,Deputy President,Monitoring & Evaluation Expenses,GoN,Cash,2013,0
+26,22612,Deputy President,Deputy President,Travelling Expenses,GoN,Cash,2013,800000
+27,22711,Deputy President,Deputy President,Miscellaneous,GoN,Cash,2013,800000
+28,21111,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Salary,GoN,Cash,2013,2310000
+29,21119,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Other Allowance,GoN,Cash,2013,100000
+30,21123,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Medical Expense,GoN,Cash,2013,300000
+31,22111,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Water and Electricity,GoN,Cash,2013,60000
+32,22112,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Communication,GoN,Cash,2013,60000
+33,22211,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Fuel and Oil - Vehicles,GoN,Cash,2013,500000
+34,22311,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,General Office Expenses,GoN,Cash,2013,60000
+35,22611,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Monitoring & Evaluation Expenses,GoN,Cash,2013,2300000
+36,22711,Constituent Assembly / Legislature - Parliament,Constituent Assembly / Legislature-Parliament,Miscellaneous,GoN,Cash,2013,1832000
+37,21111,Courts,Supreme Court,Salary,GoN,Cash,2013,144904000
+38,21113,Courts,Supreme Court,Dearness Allowance,GoN,Cash,2013,4493000
+39,21114,Courts,Supreme Court,Field Allowance,GoN,Cash,2013,115000
+40,21119,Courts,Supreme Court,Other Allowance,GoN,Cash,2013,885000
+41,21121,Courts,Supreme Court,Clothing,GoN,Cash,2013,3510000
+42,22111,Courts,Supreme Court,Water and Electricity,GoN,Cash,2013,4190000
+43,22112,Courts,Supreme Court,Communication,GoN,Cash,2013,2500000
+44,22121,Courts,Supreme Court,House Rent,GoN,Cash,2013,929000
+45,22211,Courts,Supreme Court,Fuel and Oil - Vehicles,GoN,Cash,2013,9680000
+46,22212,Courts,Supreme Court,Operation & Maintenance,GoN,Cash,2013,5500000
+47,22213,Courts,Supreme Court,Insurance,GoN,Cash,2013,2500000
+48,22311,Courts,Supreme Court,General Office Expenses,GoN,Cash,2013,17530000
+49,22313,Courts,Supreme Court,Books and Materials,GoN,Cash,2013,1600000
+50,22314,Courts,Supreme Court,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,1025000
+51,22321,Courts,Supreme Court,Repair and Maintenance of Public Property,GoN,Cash,2013,500000
+52,22411,Courts,Supreme Court,Consultancy and Services Expenses,GoN,Cash,2013,24500000
+53,22412,Courts,Supreme Court,Other Services fee,GoN,Cash,2013,600000
+54,22511,Courts,Supreme Court,Employee Training,GoN,Cash,2013,1000000
+55,22522,Courts,Supreme Court,Program Expenses,GoN,Cash,2013,20500000
+56,22611,Courts,Supreme Court,Monitoring & Evaluation Expenses,GoN,Cash,2013,1600000
+57,22612,Courts,Supreme Court,Traveling Expenses,GoN,Cash,2013,500000
+58,22711,Courts,Supreme Court,Miscellaneous,GoN,Cash,2013,3016000
+59,22911,Courts,Supreme Court,Recurrent Contingencies,GoN,Cash,2013,3300000
+60,21111,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Salary,GoN,Cash,2013,67830000
+61,21113,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Dearness Allowance,GoN,Cash,2013,1850000
+62,21119,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Other Allowance,GoN,Cash,2013,44651000
+63,21121,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Clothing,GoN,Cash,2013,1445000
+64,21122,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Fooding,GoN,Cash,2013,1204000
+65,22111,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Water and Electricity,GoN,Cash,2013,4267000
+66,22112,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Communication,GoN,Cash,2013,3067000
+67,22211,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Fuel and Oil - Vehicles,GoN,Cash,2013,11086000
+68,22212,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Operation & Maintenance,GoN,Cash,2013,8543000
+69,22213,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Insurance,GoN,Cash,2013,301000
+70,22311,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,General Office Expenses,GoN,Cash,2013,15000000
+71,22314,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,1572000
+72,22411,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Consultancy and Services Expenses,GoN,Cash,2013,10000000
+73,22412,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Other Services fee,GoN,Cash,2013,7764000
+74,22611,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Monitoring & Evaluation Expenses,GoN,Cash,2013,2005000
+75,22612,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Travelling Expenses,GoN,Cash,2013,7052000
+76,22614,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Other Travelling Expenses,GoN,Cash,2013,225000
+77,22711,Commission for Investigation of Abuse of Authority,Commission for Investigation of Abuse of Authority,Miscellaneous,GoN,Cash,2013,4584000
+78,21111,Office of the Auditor General,Office of the Auditor General,Salary,GoN,Cash,2013,151361000
+79,21113,Office of the Auditor General,Office of the Auditor General,Dearness Allowance,GoN,Cash,2013,4310000
+80,21119,Office of the Auditor General,Office of the Auditor General,Other Allowance,GoN,Cash,2013,46864000
+81,21121,Office of the Auditor General,Office of the Auditor General,Clothing,GoN,Cash,2013,3367000
+82,22111,Office of the Auditor General,Office of the Auditor General,Water and Electricity,GoN,Cash,2013,1320000
+83,22112,Office of the Auditor General,Office of the Auditor General,Communication,GoN,Cash,2013,1377000
+84,22122,Office of the Auditor General,Office of the Auditor General,Other Rent,GoN,Cash,2013,3000000
+85,22211,Office of the Auditor General,Office of the Auditor General,Fuel and Oil - Vehicles,GoN,Cash,2013,3771000
+86,22212,Office of the Auditor General,Office of the Auditor General,Operation & Maintenance,GoN,Cash,2013,2800000
+87,22213,Office of the Auditor General,Office of the Auditor General,Insurance,GoN,Cash,2013,901000
+88,22311,Office of the Auditor General,Office of the Auditor General,General Office Expenses,GoN,Cash,2013,7500000
+89,22314,Office of the Auditor General,Office of the Auditor General,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,500000
+90,22321,Office of the Auditor General,Office of the Auditor General,Repair and Maintenance of Public Property,GoN,Cash,2013,1000000
+91,22411,Office of the Auditor General,Office of the Auditor General,Consultancy and Services Expenses,GoN,Cash,2013,150000
+92,22412,Office of the Auditor General,Office of the Auditor General,Other Services fee,GoN,Cash,2013,3028000
+93,22611,Office of the Auditor General,Office of the Auditor General,Monitoring & Evaluation Expenses,GoN,Cash,2013,28000000
+94,22711,Office of the Auditor General,Office of the Auditor General,Miscellaneous,GoN,Cash,2013,3200000
+95,26211,Office of the Auditor General,Office of the Auditor General,International Membership Fee& Assistance,GoN,Cash,2013,150000
+96,26411,Office of the Auditor General,Office of the Auditor General,Unconditional Recurrent Grant to Government Agencies,,GoN,2013,0
+97,21111,Public Service Commission,Public Service Commission,Salary,GoN,Cash,2013,53813000
+98,21113,Public Service Commission,Public Service Commission,Dearness Allowance,GoN,Cash,2013,1594000
+99,21119,Public Service Commission,Public Service Commission,Other Allowance,GoN,Cash,2013,0
+100,21121,Public Service Commission,Public Service Commission,Clothing,GoN,Cash,2013,1245000
+101,22111,Public Service Commission,Public Service Commission,Water and Electricity,GoN,Cash,2013,1450000
+102,22112,Public Service Commission,Public Service Commission,Communication,GoN,Cash,2013,1000000
+103,22121,Public Service Commission,Public Service Commission,House Rent,GoN,Cash,2013,576000
+104,22211,Public Service Commission,Public Service Commission,Fuel and Oil - Vehicles,GoN,Cash,2013,3475000
+105,22212,Public Service Commission,Public Service Commission,Operation & Maintenance,GoN,Cash,2013,1600000
+106,22213,Public Service Commission,Public Service Commission,Insurance,GoN,Cash,2013,1000000
+107,22311,Public Service Commission,Public Service Commission,General Office Expenses,GoN,Cash,2013,4700000
+108,22314,Public Service Commission,Public Service Commission,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,125000
+109,22411,Public Service Commission,Public Service Commission,Consultancy and Services Expenses,GoN,Cash,2013,300000
+110,22412,Public Service Commission,Public Service Commission,Other Services fee,GoN,Cash,2013,2694000
+111,22511,Public Service Commission,Public Service Commission,Employee Training,GoN,Cash,2013,300000
+112,22521,Public Service Commission,Public Service Commission,Production Materials/Services,GoN,Cash,2013,1300000
+113,22611,Public Service Commission,Public Service Commission,Monitoring & Evaluation Expenses,GoN,Cash,2013,471000
+114,22612,Public Service Commission,Public Service Commission,Travelling Expenses,GoN,Cash,2013,1250000
+115,22711,Public Service Commission,Public Service Commission,Miscellaneous,GoN,Cash,2013,70000000
+116,21111,Public Service Commission,Regional & Zonal Offices,Salary,GoN,Cash,2013,62003000
+117,21112,Public Service Commission,Regional & Zonal Offices,Local Allowances,GoN,Cash,2013,2040000
+118,21113,Public Service Commission,Regional & Zonal Offices,Dearness Allowance,GoN,Cash,2013,2065000
+119,21119,Public Service Commission,Regional & Zonal Offices,Other Allowance,GoN,Cash,2013,0
+120,21121,Public Service Commission,Regional & Zonal Offices,Clothing,GoN,Cash,2013,1613000
+121,22111,Public Service Commission,Regional & Zonal Offices,Water and Electricity,GoN,Cash,2013,1100000
+122,22112,Public Service Commission,Regional & Zonal Offices,Communication,GoN,Cash,2013,1050000
+123,22121,Public Service Commission,Regional & Zonal Offices,House Rent,GoN,Cash,2013,300000
+124,22211,Public Service Commission,Regional & Zonal Offices,Fuel and Oil - Vehicles,GoN,Cash,2013,1400000
+125,22212,Public Service Commission,Regional & Zonal Offices,Operation & Maintenance,GoN,Cash,2013,1200000
+126,22213,Public Service Commission,Regional & Zonal Offices,Insurance,GoN,Cash,2013,600000
+127,22311,Public Service Commission,Regional & Zonal Offices,General Office Expenses,GoN,Cash,2013,1900000
+128,22314,Public Service Commission,Regional & Zonal Offices,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,225000
+129,22411,Public Service Commission,Regional & Zonal Offices,Consultancy and Services Expenses,GoN,Cash,2013,0
+130,22412,Public Service Commission,Regional & Zonal Offices,Other Services fee,GoN,Cash,2013,1338000
+131,22511,Public Service Commission,Regional & Zonal Offices,Employee Training,GoN,Cash,2013,150000
+132,22611,Public Service Commission,Regional & Zonal Offices,Monitoring & Evaluation Expenses,GoN,Cash,2013,0
+133,22612,Public Service Commission,Regional & Zonal Offices,Travelling Expenses,GoN,Cash,2013,1700000
+134,22711,Public Service Commission,Regional & Zonal Offices,Miscellaneous,GoN,Cash,2013,80000000
+135,21111,Election Commission,Election Commission,Salary,GoN,Cash,2013,43304000
+136,21113,Election Commission,Election Commission,Dearness Allowance,GoN,Cash,2013,1276000
+137,21119,Election Commission,Election Commission,Other Allowance,GoN,Cash,2013,995000
+138,21121,Election Commission,Election Commission,Clothing,GoN,Cash,2013,997000
+139,22111,Election Commission,Election Commission,Water and Electricity,GoN,Cash,2013,888000
+140,22112,Election Commission,Election Commission,Communication,GoN,Cash,2013,750000
+141,22121,Election Commission,Election Commission,House Rent,GoN,Cash,2013,720000
+142,22211,Election Commission,Election Commission,Fuel and Oil - Vehicles,GoN,Cash,2013,2200000
+143,22212,Election Commission,Election Commission,Operation & Maintenance,GoN,Cash,2013,1425000
+144,22213,Election Commission,Election Commission,Insurance,GoN,Cash,2013,528000
+145,22311,Election Commission,Election Commission,General Office Expenses,GoN,Cash,2013,2100000
+146,22314,Election Commission,Election Commission,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,308000
+147,22321,Election Commission,Election Commission,Repair and Maintenance of Public Property,GoN,Cash,2013,450000
+148,22411,Election Commission,Election Commission,Consultancy and Services Expenses,GoN,Cash,2013,1000000
+149,22412,Election Commission,Election Commission,Other Services fee,GoN,Cash,2013,4000000
+150,22611,Election Commission,Election Commission,Monitoring & Evaluation Expenses,GoN,Cash,2013,941000
+151,22612,Election Commission,Election Commission,Travelling Expenses,GoN,Cash,2013,715000
+152,22711,Election Commission,Election Commission,Miscellaneous,GoN,Cash,2013,1000000
+153,21111,Election Commission,Election Offices,Salary,GoN,Cash,2013,121252000
+154,21112,Election Commission,Election Offices,Local Allowances,GoN,Cash,2013,19205000
+155,21113,Election Commission,Election Offices,Dearness Allowance,GoN,Cash,2013,3840000
+156,21119,Election Commission,Election Offices,Other Allowance,GoN,Cash,2013,740000
+157,21121,Election Commission,Election Offices,Clothing,GoN,Cash,2013,3000000
+158,22111,Election Commission,Election Offices,Water and Electricity,GoN,Cash,2013,2605000
+159,22112,Election Commission,Election Offices,Communication,GoN,Cash,2013,2000000
+160,22121,Election Commission,Election Offices,House Rent,GoN,Cash,2013,15408000
+161,22211,Election Commission,Election Offices,Fuel and Oil - Vehicles,GoN,Cash,2013,5000000
+162,22212,Election Commission,Election Offices,Operation & Maintenance,GoN,Cash,2013,2032000
+163,22213,Election Commission,Election Offices,Insurance,GoN,Cash,2013,2950000
+164,22311,Election Commission,Election Offices,General Office Expenses,GoN,Cash,2013,5500000
+165,22314,Election Commission,Election Offices,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,200000
+166,22411,Election Commission,Election Offices,Consultancy and Services Expenses,GoN,Cash,2013,1200000
+167,22412,Election Commission,Election Offices,Other Services fee,GoN,Cash,2013,24219000
+168,22611,Election Commission,Election Offices,Monitoring & Evaluation Expenses,GoN,Cash,2013,3000000
+169,22612,Election Commission,Election Offices,Travelling Expenses,GoN,Cash,2013,1000000
+170,22711,Election Commission,Election Offices,Miscellaneous,GoN,Cash,2013,2600000
+171,21111,National Human Rights Commission,National Human Rights Commission,Salary,GoN,Cash,2013,62227000
+172,21112,National Human Rights Commission,National Human Rights Commission,Local Allowances,GoN,Cash,2013,2069000
+173,21113,National Human Rights Commission,National Human Rights Commission,Dearness Allowance,GoN,Cash,2013,307000
+174,21119,National Human Rights Commission,National Human Rights Commission,Other Allowance,GoN,Cash,2013,100000
+175,21121,National Human Rights Commission,National Human Rights Commission,Clothing,GoN,Cash,2013,240000
+176,22111,National Human Rights Commission,National Human Rights Commission,Water and Electricity,GoN,Cash,2013,2984000
+177,22112,National Human Rights Commission,National Human Rights Commission,Communication,GoN,Cash,2013,4091000
+178,22121,National Human Rights Commission,National Human Rights Commission,House Rent,GoN,Cash,2013,3120000
+179,22122,National Human Rights Commission,National Human Rights Commission,Other Rent,GoN,Cash,2013,155000
+180,22211,National Human Rights Commission,National Human Rights Commission,Fuel and Oil - Vehicles,GoN,Cash,2013,4552000
+181,22212,National Human Rights Commission,National Human Rights Commission,Operation & Maintenance,GoN,Cash,2013,2848000
+182,22213,National Human Rights Commission,National Human Rights Commission,Insurance,GoN,Cash,2013,980000
+183,22311,National Human Rights Commission,National Human Rights Commission,General Office Expenses,GoN,Cash,2013,3708000
+184,22313,National Human Rights Commission,National Human Rights Commission,Books and Materials,GoN,Cash,2013,800000
+185,22314,National Human Rights Commission,National Human Rights Commission,Fuel and Oil - For Administrative Purposes,GoN,Cash,2013,300000
+186,22411,National Human Rights Commission,National Human Rights Commission,Consultancy and Services Expenses,GoN,Cash,2013,2860000
+187,22412,National Human Rights Commission,National Human Rights Commission,Other Services fee,GoN,Cash,2013,5640000
+188,22511,National Human Rights Commission,National Human Rights Commission,Employee Training,GoN,Cash,2013,1070000
+189,22522,National Human Rights Commission,National Human Rights Commission,Program Expenses,GoN,Cash,2013,10726000
+190,22611,National Human Rights Commission,National Human Rights Commission,Monitoring & Evaluation Expenses,GoN,Cash,2013,1573000
+191,22612,National Human Rights Commission,National Human Rights Commission,Travelling Expenses,GoN,Cash,2013,1686000
+192,22711,National Human Rights Commission,National Human Rights Commission,Miscellaneous,GoN,Cash,2013,1135000
+193,502001,MOF Domestic Debt Service,National Savings Certificates,Interest on Internal Loan,GoN,Cash,2013,1720000000
+194,502002,MOF Domestic Debt Service,Development Bonds,Interest on Internal Loan,GoN,Cash,2013,3780000000
+195,502004,MOF Domestic Debt Service,Special Bonds,Interest on Internal Loan,GoN,Cash,2013,0
+196,502005,MOF Domestic Debt Service,25 year Bond,Interest on Internal Loan,GoN,Cash,2013,84874000
+197,502006,MOF Domestic Debt Service,National Loan Commission,Interest on Internal Loan,GoN,Cash,2013,81347000
+198,502008,MOF Domestic Debt Service,Treasury Bills,Interest on Internal Loan,GoN,Cash,2013,8500000000
+199,502010,MOF Domestic Debt Service,Special Development Bond Certificates,Interest on Internal Loan,GoN,Cash,2013,0
+200,503001,MOF External Debt Service (Multilateral),Asian Development Bank,Interest on Foreign Loan,GoN,Cash,2013,1933472000
+201,503002,MOF External Debt Service (Multilateral),International Development Agency,Interest on Foreign Loan,GoN,Cash,2013,1435811000
+202,503003,MOF External Debt Service (Multilateral),OPEC Loan,Interest on Foreign Loan,GoN,Cash,2013,86436000
+203,503004,MOF External Debt Service (Multilateral),European Economic Union,Interest on Foreign Loan,GoN,Cash,2013,5109000
+204,503005,MOF External Debt Service (Multilateral),International Fund for Agriculture Development Fund,Interest on Foreign Loan,GoN,Cash,2013,81908000
+205,503007,MOF External Debt Service (Multilateral),Norwegian Development Fund,Interest on Foreign Loan,GoN,Cash,2013,49430000
+206,504002,MOF External Debt Service (Bilateral),Japanese Loan Upto 1987,Interest on Foreign Loan,GoN,Cash,2013,63857000
+207,504003,MOF External Debt Service (Bilateral),Japanese Loan -onward 1988,Interest on Foreign Loan,GoN,Cash,2013,207108000
+208,504004,MOF External Debt Service (Bilateral),Kuwaiti Loan,Interest on Foreign Loan,GoN,Cash,2013,9531000
+209,504005,MOF External Debt Service (Bilateral),Saudi Fund,Interest on Foreign Loan,GoN,Cash,2013,38361000
+210,504006,MOF External Debt Service (Bilateral),French Loan,Interest on Foreign Loan,GoN,Cash,2013,36658000
+211,504007,MOF External Debt Service (Bilateral),Russian Loan,Interest on Foreign Loan,GoN,Cash,2013,41986000
+212,504009,MOF External Debt Service (Bilateral),Additional Provision,Interest on Foreign Loan,GoN,Cash,2013,497517000
+213,602001,MOF Miscellaneous,Refund of Penalties - including Court's Deposits Refund,Other Refund,GoN,Cash,2013,30000000
+214,28212,MOF Miscellaneous,Refund of Penalties - including Court's Deposits Refund,Judicial Refund,GoN,Cash,2013,0
+215,502001,MOF Financing & Debt Service,National Savings Certificates,External Amortization,GoN,Cash,2013,1667061000
+216,502002,MOF Financing & Debt Service,Development Bonds,External Amortization,GoN,Cash,2013,13500000000
+217,502004,MOF Financing & Debt Service,Special Bonds,External Amortization,GoN,Cash,2013,0
+218,502008,MOF Financing & Debt Service,Treasury Bills,External Amortization,GoN,Cash,2013,10000000000
+219,503001,MOF Financing & Debt Service,Asian Development Bank,External Amortization,GoN,Cash,2013,7940818000
+220,503002,MOF Financing & Debt Service,International Development Agency,External Amortization,GoN,Cash,2013,5031157000
+221,503003,MOF Financing & Debt Service,OPEC Loan,External Amortization,GoN,Cash,2013,353394000
+222,503004,MOF Financing & Debt Service,European Economic Union,External Amortization,GoN,Cash,2013,29009000
+223,503005,MOF Financing & Debt Service,International Fund for Agriculture Development Fund,External Amortization,GoN,Cash,2013,304750000
+224,503007,MOF Financing & Debt Service,Norwegian Development Fund,External Amortization,GoN,Cash,2013,94384000
+225,504002,MOF Financing & Debt Service,Japanese Loan Upto 1987,External Amortization,GoN,Cash,2013,902946000
+226,504003,MOF Financing & Debt Service,Japanese Loan -onward 1988,External Amortization,GoN,Cash,2013,1144859000
+227,504004,MOF Financing & Debt Service,Kuwaiti Loan,External Amortization,GoN,Cash,2013,26056000
+228,504005,MOF Financing & Debt Service,Saudi Fund,External Amortization,GoN,Cash,2013,101128000
+229,504006,MOF Financing & Debt Service,French Loan,External Amortization,GoN,Cash,2013,386743000
+230,504007,MOF Financing & Debt Service,Russian Loan,External Amortization,GoN,Cash,2013,76894000
+231,32111,MOF Financing & Debt Service,External Amortization,External Amortization,GoN,Cash,2013,0
+232,504008,MOF Financing & Debt Service,Belgium Loan,External Amortization,GoN,Cash,2013,112000000
+233,32111,MOF Financing & Debt Service,External Amortization,External Amortization,GoN,Cash,2013,0
+234,504009,MOF Financing & Debt Service,Additional Provision,External Amortization,GoN,Cash,2013,708709000
+235,504010,MOF Financing & Debt Service,Austria,External Amortization,GoN,Cash,2013,28444000
